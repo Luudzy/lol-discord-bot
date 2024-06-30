@@ -12,12 +12,8 @@ um bot feito para usar um "op.gg" dentro do discord
 6. Copie o Token (atento a data de "validade" do token)
 7. Coloque os 2 em seus respectivos lugares no codigo
 ![image](https://github.com/Luudzy/lol-discord-bot/assets/126820236/5ba26688-a2d1-48cf-b746-811dcf2f39d8)
-
-
 8. No Discord, Crie um chat e Copie o seu id
 ![image](https://github.com/Luudzy/lol-discord-bot/assets/126820236/aaf21ad2-5aa4-46d0-869b-8451f7033f8a)
-
-
 9. Substitua no Campo seguinte
 ![image](https://github.com/Luudzy/lol-discord-bot/assets/126820236/76dbe036-7bbd-49ff-bb57-12ffb97cae89)
 
