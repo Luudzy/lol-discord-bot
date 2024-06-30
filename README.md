@@ -2,7 +2,7 @@
 um bot feito para usar um "op.gg" dentro do discord
 
 
-*Instruções de como usar*
+# Como Usar
 
 1- Va ate o Discord Developer
 2- Crie um bot
